@@ -1,0 +1,29 @@
+{
+  "name": "unsplash-api",
+  "version": "1.0.0",
+  "description": ">Finding out what is possible with the [Unsplash API](https://unsplash.com/developers \"Unsplash dev link\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlanB007/unsplash-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PlanB007/unsplash-api/issues"
+  },
+  "homepage": "https://github.com/PlanB007/unsplash-api#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "unsplash-js": "^4.7.0",
+    "webpack-stream": "^4.0.0"
+  }
+}
